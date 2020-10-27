@@ -1,0 +1,2 @@
+# GUI-based-Automatic-Time-Table-generator-with-personal-preferences-using-JAVA-programming-language
+The project eliminates the heuristic method of generating the university's timetable. The time table was developed in JAVA programming language and GUI was also developed. It also had personal preferences that were given to the faculties based on their seniority. Constraints were developed and assigned according to the real university norms. Ultimately time table was generated pertaining to a section, which was also printed and had an option to save as PDF.
